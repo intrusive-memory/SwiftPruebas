@@ -1,6 +1,6 @@
 # Platform Version Enforcement Guide
 
-This document describes the multi-layered approach to enforcing minimum platform versions (macOS/iOS 26.0+) across all SwiftSecuencia libraries.
+This document describes the multi-layered approach to enforcing minimum platform versions (macOS/iOS 26.0+) across all SwiftPruebas libraries.
 
 ## Overview
 
